@@ -28,7 +28,8 @@ void setBuildStatus(String message, String state) {
 
 pipeline {
     agent {
-        label 'warp.pop-os.org'
+        //label 'warp.pop-os.org'
+        label 'firmware'
     }
 
     options {
