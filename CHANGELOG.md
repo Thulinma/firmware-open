@@ -6,6 +6,10 @@ date followed by an underscore and a short git revision.
 
 ## UNRELEASED
 
+- Updated EDK2 to edk2-stable202205
+
+## 2022-05-16
+
 - Fixed building for QEMU
 - Updated coreboot to upstream commit 670572ff6a
 - Improved NVIDIA Optimus support
@@ -22,7 +26,7 @@ date followed by an underscore and a short git revision.
 - Enabled coreboot measured boot
 - Updated Rust toolchain to nightly-2021-06-15
 - Updated coreboot to 4.15
-- Updated EDK2 to edk2-stabke202108
+- Updated EDK2 to edk2-stable202108
 - Updated TGL-U microcode blobs to revision 0x9a
 - Updated TGL-H microcode blobs to revision 0x3c
 - Updated all other boards to use microcode blobs from Intel's public repo
